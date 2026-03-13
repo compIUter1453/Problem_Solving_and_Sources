@@ -3,6 +3,11 @@
 Bu repo, DSA (Data Structures and Algorithms) soru cozumlerini tek bir yerde toplamak icin hazirlandi.
 Amac, LeetCode, AlgoLeague ve benzeri platformlardan cozulmus sorulari duzenli bir yapiyla paylasmaktir.
 
+## Cozumler
+
+- Repo ici liste: [Problems.md](./Problems.md)
+- GitHub uzerinden dogrudan: [Problems](https://github.com/compIUter1453/Problem_Solving_and_Sources/blob/main/Problems.md)
+
 ## Hedef
 
 - Cozulen sorulari konu bazli klasorlerde tutmak
