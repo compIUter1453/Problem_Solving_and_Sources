@@ -10,9 +10,14 @@ Kisi adina tiklayinca o kisinin cozum klasorune gidebilirsin.
 | [nzva](./-nzva-main/dp/) | dp | CoinFlipCOMIBNATION | C++ | [Ac](./-nzva-main/dp/CoinFlipCOMİBNATİON.cpp) |
 | [nzva](./-nzva-main/dp/) | dp | CoinPerm | C++ | [Ac](./-nzva-main/dp/CoinPerm.cpp) |
 | [nzva](./-nzva-main/dp/) | dp | FastFib | Python | [Ac](./-nzva-main/dp/FastFib.py) |
-| [mf](./mf/game/) | game | TheNumberDuel | Python | [AC](./mf/game/TheNumberDuel.py) |
-| [mf](./mf/sliding-window/) | sliding window | ComfortText | Python | [AC](./mf/sliding-window/ComfortText.py) |
-
+| [mf](./mf/binary-search/) | binary search | SearchInRotatedSortedArray | Python | [Ac](./mf/binary-search/SearchInRotatedSortedArray.py) |
+| [mf](./mf/constructive/) | constructive | ConstructionZone | Python | [Ac](./mf/constructive/ConstructionZone.py) |
+| [mf](./mf/data-structures/) | data structures | MedianOfTwoSortedArrays | Python | [Ac](./mf/data-structures/MedianOfTwoSortedArrays.py) |
+| [mf](./mf/game-theory/) | game theory | TheNumberDuel | Python | [Ac](./mf/game-theory/TheNumberDuel.py) |
+| [mf](./mf/greedy/) | greedy | PalindromicClock | Python | [Ac](./mf/greedy/PalindromicClock.py) |
+| [mf](./mf/greedy/) | greedy | RemoveOneOfThem | Python | [Ac](./mf/greedy/RemoveOneOfThem.py) |
+| [mf](./mf/sliding-window/) | sliding window | ComfortText | Python | [Ac](./mf/sliding-window/ComfortText.py) |
+| [mf](./mf/string/) | string | LongestCommonPrefix | Python | [Ac](./mf/string/LongestCommonPrefix.py) |
 
 ## Yeni Cozum Ekleme
 
